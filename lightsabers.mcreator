@@ -108,7 +108,7 @@
     "version": "0.7.0",
     "description": "A simple mod that adds Lightsabers.",
     "author": "ocawesome101",
-    "websiteURL": "https://mcreator.net",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/ocs-lightsabers",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
